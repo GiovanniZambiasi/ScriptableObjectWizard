@@ -6,4 +6,4 @@ The wizard is available via the MiddleMast/ScriptableObject Wizard option in the
 
 ![still](https://i.imgur.com/JyCxsml.png)
 
-Video demo: https://www.dropbox.com/s/4hh5ocdsiy08ry0/AaINN0Ba9p.mp4?dl=0
+Demo: https://youtu.be/QT1lSJCeqLc
