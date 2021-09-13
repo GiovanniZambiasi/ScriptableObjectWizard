@@ -1,6 +1,6 @@
 {
   "name": "com.middlemast.scriptableobjectwizard",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "displayName": "ScriptableObject Wizard",
   "description": "A very simple editor tool that allows the cration of any ScriptableObject asset you want.",
   "unity": "2019.1",
@@ -13,5 +13,6 @@
     "name": "MiddleMast - Giovanni Zambiasi",
     "email": "giovanni.zambiasi@gmail.com",
     "url": "https://github.com/GiovanniZambiasi"
-  }
+  },
+  "type": "tool"
 }

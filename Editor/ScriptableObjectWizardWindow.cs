@@ -5,11 +5,10 @@
 using System;
 using System.Collections.Generic;
 using System.Reflection;
-using MiddleMast.Utilities.Extensions;
 using UnityEditor;
 using UnityEngine;
 
-namespace MiddleMast.Editor.ScriptableObjectWizard
+namespace MiddleMast.ScriptableObjectWizard.Editor
 {
     public class ScriptableObjectWizardWindow : EditorWindow
     {

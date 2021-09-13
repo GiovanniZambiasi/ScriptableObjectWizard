@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Reflection;
 
-namespace MiddleMast.Utilities.Extensions
+namespace MiddleMast.ScriptableObjectWizard.Editor
 {
     public static class ReflectionExtensions
     {

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace MiddleMast.Utilities.Extensions
+namespace MiddleMast.ScriptableObjectWizard.Editor
 {
     public static class StringExtensions
     {
