@@ -12,4 +12,4 @@ Demo: https://youtu.be/QT1lSJCeqLc
 
 ## Installation
 
-- Install via [UPM](https://docs.unity3d.com/Manual/upm-ui-giturl.html) using [this](https://github.com/GiovanniZambiasi/ScriptableObjectWizard.git) url
+- Install via [UPM](https://docs.unity3d.com/Manual/upm-ui-giturl.html) using the URL: ``https://github.com/GiovanniZambiasi/ScriptableObjectWizard.git``
